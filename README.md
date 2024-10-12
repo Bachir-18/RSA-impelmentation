@@ -1,5 +1,5 @@
 # RSA-impelmentation
-Implementation of  the RSA algorithm from scratch in C++
+Implementation of  the RSA algorithm from scratch
 
 This project consists of implementing a C++ RSA program from scratch. First, we create a class called "Bignum" that handles large numbers. Then, we implement all the necessary operations for this class to use them in the RSA algorithm.
 The program functions well, but the execution time becomes lengthy when the key size exceeds 256 bits.
